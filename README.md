@@ -1,4 +1,4 @@
-<img src="https://github.com/BCS-Broker/BrokerApp/blob/master/logo.png"  width="36" height="36"> BrokerSDK. BrokerApp
+<img src="https://github.com/BCS-Broker/BrokerApp/blob/master/logo.png"  width="30" height="30"> BrokerSDK. BrokerApp
 ======================================
 ## Требования
 
