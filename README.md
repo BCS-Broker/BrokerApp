@@ -1,5 +1,5 @@
-# BrokerSDK. BrokerApp
-
+<img src="https://github.com/BCS-Broker/BrokerApp/blob/master/logo.png"  width="20" height="20"> BrokerSDK. BrokerApp
+======================================
 ## Требования
 
 * Xcode 11.3
